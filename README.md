@@ -77,8 +77,8 @@ All challenges are solved in a legal environment provided by OverTheWire.
 
 ## 🔗 Connect With Me
 
-* GitHub: (your profile link)
-* LinkedIn: (optional)
+* GitHub: https://github.com/hasibbadon/
+* LinkedIn: https://www.linkedin.com/in/hasibbadon/
 
 ---
 
